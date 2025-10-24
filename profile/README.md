@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Tecnologia para uma gestão de condomínios inteligente e humana.</strong>
   <br />
-  Transformando a administração de condomínios em São Sebastião-SP.
+  Transformando a administração de condomínios no Litoral Norte - SP.
   <br />
   <a href="https://www.condosmart.com.br"><strong>Visite nosso site »</strong></a>
 </p>
@@ -14,7 +14,7 @@
 
 O **CondoSmart** é uma plataforma web (SaaS) em desenvolvimento, focada em resolver os problemas reais dos síndicos e moradores. Nossa missão é substituir o caos de grupos de WhatsApp e planilhas por uma ferramenta centralizada, transparente e intuitiva.
 
-Construído pela equipe fundadora (Luan/PO, Kayke/Dev, João/Scrum Master) como uma solução moderna para o mercado local.
+Construído pela equipe fundadora (Luan/PO, Kayke/Dev, João/Scrum Master) como uma solução moderna para o mercado.
 
 ### ✨ Nosso Foco (UX)
 
