@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CondoSmart-IA/.github/main/profile/logo.png" alt="CondoSmart Logo" width="200"/>
-</p>
-
 <h1 align="center">Bem-vindo à CondoSmart</h1>
 
 <p align="center">
