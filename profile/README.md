@@ -77,7 +77,7 @@ Gerenciamos nosso projeto de 5 meses usando metodologias Ágeis (Scrum) diretame
 ---
 
 <p align="center">
-  <a href="URL_DO_LINKEDIN_DA_EMPRESA">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/condosmart-oficial-86894b394/">LinkedIn</a>
   ·
   <a href="mailto:condosmart.oficial@gmail.com ">E-mail</a>
 </p>
