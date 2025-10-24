@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DO_SEU_LOGO_AQUI" alt="CondoSmart Logo" width="200"/>
+  <img src="[URL_DO_SEU_LOGO_AQUI](https://github.com/CondoSmart-IA/.github/blob/main/profile/logo.jpeg)" alt="CondoSmart Logo" width="200"/>
 </p>
 
 <h1 align="center">Bem-vindo à CondoSmart</h1>
